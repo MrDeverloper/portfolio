@@ -25,7 +25,7 @@ SECRET_KEY = 'b=0u+6=qv070c12&^g#h^nf$0874od)x6x!c))^09$_58&s^ve'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['portfoilojss.heroku.com', '127.0.0.1]
+ALLOWED_HOSTS = ['portfoilojss.heroku.com', '127.0.0.1']
 
 
 # Application definition
