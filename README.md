@@ -2,4 +2,4 @@
 # portfolio
 *Oddiy shablonli Portfoilo sayt Tuzatiladigan joylari bor*
 
-_pip install django_
+<code>pip install django</code>
